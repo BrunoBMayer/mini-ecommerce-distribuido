@@ -1,0 +1,24 @@
+mini-ecommerce-distribuido/
+├── gateway/
+│   ├── server.js
+│   └── logs/
+│       └── heartbeat.log
+├── users/
+│   ├── server.js
+│   └── data/
+│       └── users.json
+├── products/
+│   ├── server.js
+│   └── data/
+│       ├── products_replica_1.json
+│       └── products_replica_2.json
+├── orders/
+│   ├── server.js
+│   └── data/
+│       └── orders.json
+├── docs/
+│   └── relatorio_base.md
+├── .env.example
+├── .gitignore
+├── package.json
+└── README_execucao.md
