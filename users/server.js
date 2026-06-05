@@ -34,7 +34,7 @@ function generateId(users) {
   return lastId + 1;
 }
 
-function publicUser(user) {
+function publicUser(user)  {
   return {
     id: user.id,
     name: user.name,
