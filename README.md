@@ -174,3 +174,5 @@ gateway/logs/heartbeat.log
 ```
 
 Quando o servico voltar, o gateway registra a recuperacao no mesmo log.
+
+ᓚᘏᗢ
